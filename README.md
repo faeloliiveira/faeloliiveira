@@ -34,6 +34,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
  
 </div>
 
- ![Snake animation](https://github.com/faeloliveiraa/faeloliveiraa/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/faeloliiveira/faeloliiveira/blob/output/github-contribution-grid-snake.svg)
 
 
